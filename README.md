@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-<a href="#-projeto">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-conheciomentos">Conhecimentos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+<a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-layout-grid">Layout-Grid</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#-layout-bootstrap">Layout-Bootstrap</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#-layout-Flexbox">Layout-Flexbox</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -31,7 +31,7 @@ Projeto desenvolvido no curso CSS Posicionamento Avançado da Origamid, durante 
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-01-Flexbox.png)
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-02-Flexbox.png)
 
-## 💻 Conhecimentos
+## 💻 Tecnologias
 - HTML
 - CSS
 - Bootstrap
