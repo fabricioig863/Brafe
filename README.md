@@ -13,7 +13,7 @@
 
 ## 🚀 Projeto
 
-Projeto desenvolvido no curso CSS Posicionamento Avançado da Origamid, durante o curso foi desenvolvido 3 Layouts diferentes, com o objetivo de fixar os conhecimentos sobre Bootstrap, Grid e Flexbox
+Projeto desenvolvido no curso CSS Posicionamento Avançado da Origamid, durante o curso foi desenvolvido 3 Layouts diferentes com o objetivo de fixar os conhecimentos sobre Bootstrap, Grid e Flexbox
 
 ## 💻 Conhecimentos
 - HTML
