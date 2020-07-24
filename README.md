@@ -5,7 +5,9 @@
 <p align="center">
 <a href="#-projeto">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Conhecimentos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout 01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#-layout02">Layout 02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#-layout03">Layout 03</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -20,14 +22,18 @@ Projeto desenvolvido no curso CSS Posicionamento Avançado da Origamid, durante 
 - Grid
 - Flexbox
 
-## 🎨 Layout
+## 🎨 Layout 01
 
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-01-Grid.png)
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-02-Grid.png)
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-03-Grid.png)
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-04-Grid.png)
+
+## 🎨 Layout 02
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-01-Bootstrap.png)
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-02-Bootstrap.png)
+
+## 🎨 Layout 03
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-01-Flexbox.png)
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-02-Flexbox.png)
 
