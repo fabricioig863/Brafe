@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Conhecimentos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-layout-grid">Layout-Grid</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout-bootstrap">Layout-Bootstrap</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout-Flexbox">Layout-Flexbox</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,8 +12,7 @@
 
 ## 🚀 Projeto
 
-Projeto desenvolvido no curso CSS Posicionamento Avançado da Origamid, durante o curso foi desenvolvido 3 Layouts diferentes, com o objetivo de fixar os conhecimentos sobre Bootstrap, Grid e Flexbox
-
+Projeto desenvolvido no curso CSS Posicionamento Avançado da Origamid, durante o curso foi desenvolvido 3 Layouts diferentes com o objetivo de fixar os conhecimentos sobre Bootstrap, Grid e Flexbox
 
 ## 🎨 Layout-Grid
 
@@ -36,5 +35,4 @@ Projeto desenvolvido no curso CSS Posicionamento Avançado da Origamid, durante 
 - Bootstrap
 - Grid
 - Flexbox
-
 
