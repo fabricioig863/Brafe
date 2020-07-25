@@ -40,6 +40,4 @@ Projeto desenvolvido no curso CSS Posicionamento Avançado da Origamid, durante 
 ![Layout do projeto](https://github.com/fabricioig863/Brafe/blob/master/Layout/Layout-02-Flexbox.png)
 
 
-## 📝 License 
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/rafaelmartins92/ecoleta/blob/master/LICENSE) para obter mais informações.
