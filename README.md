@@ -8,6 +8,7 @@
   <a href="#-layout-grid">Layout-Grid</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout-bootstrap">Layout-Bootstrap</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout-Flexbox">Layout-Flexbox</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🚀 Projeto
@@ -35,3 +36,6 @@ Projeto desenvolvido no curso CSS Posicionamento Avançado da Origamid, durante 
 - Bootstrap
 - Grid
 - Flexbox
+
+## 📝 License
+Este projeto está sob a licença MIT. Consulte a [LICENSE](https://github.com/fabricioig863/Brafe/blob/master/LICENSE ) para mais informações.
