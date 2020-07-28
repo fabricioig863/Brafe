@@ -35,4 +35,3 @@ Projeto desenvolvido no curso CSS Posicionamento Avançado da Origamid, durante 
 - Bootstrap
 - Grid
 - Flexbox
-
